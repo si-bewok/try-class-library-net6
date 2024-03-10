@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CItjIAXFzD6UvKuiwT7egHWa1X63D53o1vPPa6foLXBM+AlFmY1aFs/6z6KsBsD54zyWxfcyQyKsWagsxM8kxw==",
+  "success": true,
+  "projectFilePath": "H:\\Data Fari\\Coding\\try-class-library-net6\\LibraryUI\\LibraryUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Palapa13\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\Palapa13\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\Palapa13\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\Palapa13\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
